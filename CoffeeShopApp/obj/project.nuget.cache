@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "b9vgAOoPhGoGFMe5S5bgsXYxok5li3JGCxp0VELYUd7C0THA+l9oxTxu0l21D7ut/dm4+Rf71B8pH/zw4m6u5Q==",
+  "success": true,
+  "projectFilePath": "/Users/joe/Projects/CoffeeShopApp/CoffeeShopApp/CoffeeShopApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/joe/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "/Users/joe/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.15/microsoft.netcore.app.host.osx-x64.6.0.15.nupkg.sha512",
+    "/Users/joe/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

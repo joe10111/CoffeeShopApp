@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeShopApp", "CoffeeShopApp\CoffeeShopApp.csproj", "{4E52C90F-66B4-42D1-A998-6B98A0B01390}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{BED4C6AB-2353-4427-8178-23B7B89761F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E52C90F-66B4-42D1-A998-6B98A0B01390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E52C90F-66B4-42D1-A998-6B98A0B01390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E52C90F-66B4-42D1-A998-6B98A0B01390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E52C90F-66B4-42D1-A998-6B98A0B01390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BED4C6AB-2353-4427-8178-23B7B89761F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED4C6AB-2353-4427-8178-23B7B89761F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED4C6AB-2353-4427-8178-23B7B89761F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED4C6AB-2353-4427-8178-23B7B89761F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF1CC64E-B28E-4350-B74E-0C6ED82E2F19}
+	EndGlobalSection
+EndGlobal
