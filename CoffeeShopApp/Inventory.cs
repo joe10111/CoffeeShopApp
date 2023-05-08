@@ -3,9 +3,9 @@ namespace CoffeeShopApp
 {
 	public class Inventory
 	{
-		string Name;
-		List<Coffee> AllCoffees;
-		List<Tea> AllTeas;
+		public string Name;
+		public List<Coffee> AllCoffees;
+		public List<Tea> AllTeas;
 
 		public Inventory(string name)
 		{
